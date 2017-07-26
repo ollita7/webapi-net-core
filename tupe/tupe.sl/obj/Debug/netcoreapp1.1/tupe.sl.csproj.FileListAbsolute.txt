@@ -1,0 +1,11 @@
+C:\Cavepot\Github\webapi-net-core\tupe\tupe.sl\bin\Debug\netcoreapp1.1\tupe.sl.deps.json
+C:\Cavepot\Github\webapi-net-core\tupe\tupe.sl\bin\Debug\netcoreapp1.1\tupe.sl.runtimeconfig.json
+C:\Cavepot\Github\webapi-net-core\tupe\tupe.sl\bin\Debug\netcoreapp1.1\tupe.sl.runtimeconfig.dev.json
+C:\Cavepot\Github\webapi-net-core\tupe\tupe.sl\bin\Debug\netcoreapp1.1\tupe.sl.dll
+C:\Cavepot\Github\webapi-net-core\tupe\tupe.sl\bin\Debug\netcoreapp1.1\tupe.sl.pdb
+C:\Cavepot\Github\webapi-net-core\tupe\tupe.sl\obj\Debug\netcoreapp1.1\tupe.sl.csprojResolveAssemblyReference.cache
+C:\Cavepot\Github\webapi-net-core\tupe\tupe.sl\obj\Debug\netcoreapp1.1\tupe.sl.AssemblyInfo.cs
+C:\Cavepot\Github\webapi-net-core\tupe\tupe.sl\obj\Debug\netcoreapp1.1\tupe.sl.dll
+C:\Cavepot\Github\webapi-net-core\tupe\tupe.sl\obj\Debug\netcoreapp1.1\tupe.sl.pdb
+C:\Cavepot\Github\webapi-net-core\tupe\tupe.sl\bin\Debug\netcoreapp1.1\tupe.sdk.dll
+C:\Cavepot\Github\webapi-net-core\tupe\tupe.sl\bin\Debug\netcoreapp1.1\tupe.sdk.pdb

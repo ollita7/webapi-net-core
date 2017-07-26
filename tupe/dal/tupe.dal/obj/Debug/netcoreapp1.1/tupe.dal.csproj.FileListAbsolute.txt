@@ -1,0 +1,4 @@
+C:\Cavepot\Github\webapi-net-core\tupe\dal\tupe.dal\bin\Debug\netcoreapp1.1\tupe.dal.deps.json
+C:\Cavepot\Github\webapi-net-core\tupe\dal\tupe.dal\bin\Debug\netcoreapp1.1\tupe.sdk.dll
+C:\Cavepot\Github\webapi-net-core\tupe\dal\tupe.dal\obj\Debug\netcoreapp1.1\tupe.dal.csprojResolveAssemblyReference.cache
+C:\Cavepot\Github\webapi-net-core\tupe\dal\tupe.dal\obj\Debug\netcoreapp1.1\tupe.dal.AssemblyInfo.cs

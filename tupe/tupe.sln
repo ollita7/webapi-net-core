@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tupe.sl", "tupe.sl\tupe.sl.csproj", "{58F60410-B68D-4E04-B152-81DEC7ABA4D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{F22FA0C7-910B-4E9B-B135-CBE2981E0033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tupe.sdk", "core\tupe.sdk\tupe.sdk.csproj", "{3E3CC0C9-A9FF-4B55-A205-FA6B5BB79C94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dal", "dal", "{C9DA6F96-1B8A-41FD-873D-483018257109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tupe.dal", "dal\tupe.dal\tupe.dal.csproj", "{E221249E-60AD-4976-BB84-F234585AC5B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F60410-B68D-4E04-B152-81DEC7ABA4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F60410-B68D-4E04-B152-81DEC7ABA4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F60410-B68D-4E04-B152-81DEC7ABA4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F60410-B68D-4E04-B152-81DEC7ABA4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3CC0C9-A9FF-4B55-A205-FA6B5BB79C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3CC0C9-A9FF-4B55-A205-FA6B5BB79C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3CC0C9-A9FF-4B55-A205-FA6B5BB79C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3CC0C9-A9FF-4B55-A205-FA6B5BB79C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E221249E-60AD-4976-BB84-F234585AC5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E221249E-60AD-4976-BB84-F234585AC5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E221249E-60AD-4976-BB84-F234585AC5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E221249E-60AD-4976-BB84-F234585AC5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3E3CC0C9-A9FF-4B55-A205-FA6B5BB79C94} = {F22FA0C7-910B-4E9B-B135-CBE2981E0033}
+		{E221249E-60AD-4976-BB84-F234585AC5B5} = {C9DA6F96-1B8A-41FD-873D-483018257109}
+	EndGlobalSection
+EndGlobal
